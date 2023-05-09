@@ -4,7 +4,7 @@
   "description": " Node.js Chat Application",
   "main": "app.js",
   "scripts": {
-    "start": "set NODE_ENV=developmenmt && nodemon app.js"
+    "start": "set NODE_ENV=production && nodemon app.js"
   },
   "author": "Susmit",
   "license": "UNLICENSED",
